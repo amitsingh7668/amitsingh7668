@@ -4,7 +4,7 @@
 
 ## I'm a Developer!!
 
-- 🔭 I'm java developer
+- 🔭 I'm Full Stack developer
 - 🌱 I’m currently learning data science
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
