@@ -2,10 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/2singhamit3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%22singhamit3&screen_name=2singhamit3)
 
-<a class="twitter-follow-button"
-  href="https://twitter.com/2singhamit3">
-Follow @SinghAmit</a>
-
 ## I'm a Developer!!
 
 - 🔭 I'm java developer
